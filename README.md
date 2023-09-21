@@ -1,4 +1,4 @@
-# Discord Usernames Checker
+# Discord Usernames Generator & Checker 
   <a href="https://github.com/alimawla69/discord-usernames-checker/"><img src="https://img.shields.io/github/last-commit/alimawla69/discord-usernames-checker?style=flat" /></a>
   <a href="https://github.com/alimawla69/discord-usernames-checker/stargazers"><img src="https://img.shields.io/github/stars/alimawla69/discord-usernames-checker?style=flat" /></a>
   <a href="https://github.com/alimawla69/discord-usernames-checker"><img src="https://visitor-badge.laobi.icu/badge?page_id=discord-usernames-checker" /></a>
@@ -13,11 +13,11 @@ A tool to automatically generate usernames for discord.com and check if they are
 - Sinple logger
 - Auto saver for hits username in `hits.txt`
 - Auto saver for taken usernames in `taken.txt`
-- Simple to use just run put proxies and run `start.bat`
+- Simple to use just put proxies and run `start.bat`
 
 # REQUIREMENTS
 ## proxies if you didn't use good proxies the code will not work 
-you get free 10 proxies every user sign-up in `https://www.webshare.io/`
+you get free 10 proxies every user sign-up in https://www.webshare.io/
 
 ### Setup
 * Clone this repository to your computer or download using this command.
